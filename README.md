@@ -1,6 +1,6 @@
 # SiteWordStatistics
 This is a simple console application for saving HTML page and getting statistics of quantity of unique words.
-Logs saving in C:\\temp\\info.log
+Logs saving at C:\temp\info.log
 
 # Application stack
 1. Hibernate
