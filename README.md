@@ -1,8 +1,8 @@
 # SiteWordStatistics
-This is a simple console application for saving HTML page and gives statistics on the number of unique words to the console.
+This is a simple console application for saving HTML page and getting statistics on of quantity of unique words.
 Logs saving in C:\\temp\\info.log
 
-# Stack of that application includes:
+# Application stack
 1. Hibernate
 2. Log4j2
 
