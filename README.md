@@ -5,7 +5,7 @@ This is a simple console application for saving HTML page and gives statistics o
 Hibernate
 Log4j2
 
-#Run
+# Run
 To create the executable jar run:
 
 `mvn clean install` 
